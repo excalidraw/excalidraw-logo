@@ -1,1 +1,3 @@
-# excalidraw-logo
+# Excalidraw Logo
+
+> For anything has to do with logo, images, banners, etc...
